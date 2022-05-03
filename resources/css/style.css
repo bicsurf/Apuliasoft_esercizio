@@ -1,0 +1,12 @@
+*{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+#button_custom:hover {
+    background-color: rgba(110, 165, 241, 0.771);
+}
+
+#link_custom:hover{
+    color: white;
+}

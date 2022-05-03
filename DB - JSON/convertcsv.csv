@@ -1,0 +1,7 @@
+project/id,project/name,employee/id,employee/name,date,hours
+1,Mars Rover,1,Mario,2021-08-26T22:00:00.000Z,5
+2,Manhattan,2,Giovanni,2021-08-30T22:00:00.000Z,3
+1,Mars Rover,1,Mario,2021-08-31T22:00:00.000Z,3
+1,Mars Rover,3,Lucia,2021-08-31T22:00:00.000Z,3
+2,Manhattan,1,Mario,2021-08-26T22:00:00.000Z,2
+2,Manhattan,2,Giovanni,2021-08-31T22:00:00.000Z,4
